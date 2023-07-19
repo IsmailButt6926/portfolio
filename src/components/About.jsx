@@ -26,11 +26,30 @@ const About = () => {
                     </div>
 
                     <div>
+                        {/* <p>I am passionate about building excellent software that improves
+                            the lives of those around me. I specialize in creating software
+                            for clients ranging from individuals and small-businesses all the
+                            way to large enterprise corporations. What would you do if you had
+                            a software expert available at your fingertips?</p> */}
+                        <p>
+                            As a React developer with one year of experience, I am passionate about building excellent software
+                            that improves the lives of users. I specialize in creating innovative and user-friendly applications,
+                            from individual projects to small businesses and large enterprise corporations.
+                        </p>
+                        <p>
+                            During my journey as a developer, I have gained valuable experience and skills in React and its ecosystem,
+                            including state management, component-driven development, and building responsive and accessible user interfaces.
+                            I strive to create clean, maintainable code and follow best practices to deliver high-quality solutions.
+                        </p>
                         <p>I am passionate about building excellent software that improves
                             the lives of those around me. I specialize in creating software
                             for clients ranging from individuals and small-businesses all the
                             way to large enterprise corporations. What would you do if you had
                             a software expert available at your fingertips?</p>
+                        <p>
+                            If you are looking for a skilled React developer who can bring your ideas to life and deliver exceptional
+                            software solutions, I'm here to help. Let's collaborate and create something amazing together.
+                        </p>
                     </div>
                 </div>
             </div>
