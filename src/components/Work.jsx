@@ -14,7 +14,7 @@ const Work = () => {
 
         <div className='pb-8'>
           <h3 className='text-4xl font-bold inline border-b-4 border-pink-600'>Work</h3>
-          <p className='py-6'>Check out some of my recent work</p>
+          <h3 className='py-6'>Check out some of my recent work</h3>
         </div>
 
         {/* grid container  */}
