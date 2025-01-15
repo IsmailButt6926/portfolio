@@ -6,6 +6,11 @@ module.exports = {
     extend: {},
     fontFamily: {
       signature: ["Great Vibes"],
+      fontFamily: {
+        sans: ['Poppins', 'sans-serif'],
+        heading: ['Montserrat', 'sans-serif'],
+        body: ['Inter', 'sans-serif'],
+      },
     },
   },
   plugins: [],
